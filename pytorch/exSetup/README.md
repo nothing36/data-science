@@ -7,4 +7,4 @@ This bash script will install PyTorch 12.6 and install any packages listed insid
 2. drag setupPT.bash into the new dir
 3. create a blank requirements.txt file
 4. add any needed packages to requirements.txt and run bash
-5. thats it :)
+5. if the script fails, run with --verbose
